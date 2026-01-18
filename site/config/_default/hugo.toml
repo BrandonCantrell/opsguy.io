@@ -1,0 +1,22 @@
+# Site Configuration
+baseURL = "https://opsguy.io/"
+defaultContentLanguage = "en"
+
+
+enableRobotsTXT = true
+enableEmoji = true
+summaryLength = 30
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true

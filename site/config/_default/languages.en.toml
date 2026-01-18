@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Brandon Cantrell"
+copyright = "CC BY-SA 4.0"
+
+[params]
+  dateFormat = "January 2, 2006"
+  mainSections = ["posts"]
+  description = "A curious nerd writing about tech, homelabs, food, and whatever else is on my mind."
+
+[params.author]
+  name = "Brandon Cantrell"
+  image = "img/profile.webp"
+  headline = "Tinkerer. Builder. Occasional cook."
+  bio = "I like building things, breaking things, and figuring out how things work. Currently obsessed with my homelab and trying new recipes."
+  links = [
+    { github = "https://github.com/BrandonCantrell" },
+    { linkedin = "https://linkedin.com/in/brandoncantrell" },
+  ]
