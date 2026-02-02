@@ -35,3 +35,5 @@ go.work.sum
 CLAUDE.md
 .claude/
 Claude_resume.rtf
+*.pdf
+pdfs/
