@@ -1,6 +1,7 @@
 +++
 title = "About"
 description = "A bit about me"
+date = 2026-02-02
 showDate = false
 showReadingTime = false
 showAuthor = false
