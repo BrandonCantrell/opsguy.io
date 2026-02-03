@@ -1,6 +1,7 @@
 +++
 title = "Professional Background"
 description = "My career journey and experience"
+date = 2026-02-02
 showDate = false
 showReadingTime = false
 showAuthor = false
