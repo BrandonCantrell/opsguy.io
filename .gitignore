@@ -37,3 +37,6 @@ CLAUDE.md
 Claude_resume.rtf
 *.pdf
 pdfs/
+
+# Hugo build output
+site/public/
